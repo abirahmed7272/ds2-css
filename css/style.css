@@ -33,7 +33,7 @@ a{
 
 a:hover{
   /* make the background color of your link black and the text white when you hover over it */
-  color;
+  color: white;
   background-color: black;
 }
 
