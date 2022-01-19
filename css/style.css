@@ -26,8 +26,8 @@ p{
 a{
   /* make your links red, use italics, and be underlined */
   color: #D10000;
-  font-style: italics;
-  decoration: underline;
+  font-style: italic;
+  text-decoration: underline;
 }
 
 
