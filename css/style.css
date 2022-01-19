@@ -41,8 +41,8 @@ img{
   /* make the image 300px wide and 220px high, 10px of padding, and a 10px dashed border in the color of your choice */
   width: 300px;
   height: 220px;
-  padding: ;
-  border: 10px #1ba550;
+  padding: 10px;
+  border: 10px dashed #1ba550;
 }
 
 
